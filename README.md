@@ -5,3 +5,6 @@ Currently it has:
 - Editor
 - Custom textures
 - Some cool editor options
+
+# Requirements
+Its made in Visual Studio, all the libraries are in the project.
